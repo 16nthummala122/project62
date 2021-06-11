@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+#logo{
+    width:350px;
+    height: 350px;
+}
+
+img{
+    width: 350px;
+    height: 350px;
+}
+
+#mycarosel{
+    background-color: fuchsia;
+}
